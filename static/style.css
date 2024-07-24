@@ -309,7 +309,7 @@ img {
 }
 
 .home__blob-img {
-  width: 170px;
+  width: 250px;
 
 }
 
@@ -920,7 +920,7 @@ img {
     column-gap: 5rem;
   }
   .about__img{
-    width: 350px;
+    width: 500px;
   }
 
   .about__description{
